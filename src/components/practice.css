@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(29, 156, 230);
+    padding-top:10px;
+    padding-bottom:20px;
+    margin-top:10px;
+}
+
+.user-name{
+
+    color:white;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.user-email{
+    font-size: smaller;
+}
